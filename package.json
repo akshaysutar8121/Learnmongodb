@@ -1,0 +1,24 @@
+{
+  "name": "learnmongodb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akshaysutar8121/Learnmongodb.git"
+  },
+  "author": "akshay sutar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akshaysutar8121/Learnmongodb/issues"
+  },
+  "homepage": "https://github.com/akshaysutar8121/Learnmongodb#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "mongoose": "^6.3.6"
+  }
+}
